@@ -1,0 +1,7 @@
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.DS_Store
+问题/
+Homework 2 Data/
+build_hw2.py
